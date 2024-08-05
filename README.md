@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1>Hello! I'm Solomon Udofia, A Front-end developer based in Nigeria</h1> 👋
 
 <!--
 **Peud001/Peud001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
