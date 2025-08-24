@@ -16,7 +16,7 @@
 <a href="mailto:meetsolomonudofia11@gmail.com" target="_blank">
   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="[https://johnpatrick.vercel.app](https://udofia.vercel.app/project)" target="_blank">
+<a href="https://udofia.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </a>
 <br>
