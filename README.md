@@ -1,7 +1,7 @@
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=2000&width=600&height=100&lines=Hello!+I+am+Solomon+Udofia+👋"></img>
 </p>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" width="300" height="200"></img>
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjVuN2tmcWtkYXZobjlvb3F6OTloY3MydHM0dXQ0dTFyNzQxYjlyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200"></img>
 
 
 
@@ -16,7 +16,7 @@
 <a href="mailto:meetsolomonudofia11@gmail.com" target="_blank">
   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://johnpatrick.vercel.app" target="_blank">
+<a href="[https://johnpatrick.vercel.app](https://udofia.vercel.app/project)" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </a>
 <br>
